@@ -1,0 +1,43 @@
+INF 554
+Responses to Critique Groups
+Critique Group 0
+Group 3: 
+Joao Carnerio 
+Christine Song
+
+
+Critique Group 1
+I like your idea about providing multiple choices for people about changing their transportation methods. You explained well on the target audience as well as data source, which is reliable and practical. As for your visualization method, it integrates different maps for different transportation. Does someone do this before (basically like Google Map, it provides different options like Bus, Drive, Walk)? Is there any other visualization method (It will be clear If there is a picture explaining how does your prototype look like)? As for the GIS data, would it take much longer time to explore data than to visualize it?
+
+
+Response to Critique Group 1: Google maps is an interactive map that calculates routes, shows roads and etc. We are not focusing in show an interactive map to help the user to go from point A to point B. Instead, we want to demonstrate the areas where you have more options for transportation, and we want to grade this area accordingly to support user knowledge about certain area.
+We believe that our visualization will be complex, specially due to the amount of data we are incorporating into it. Due to that, we have planned to have redundancy to help the user to better understand a specific area or to better understand the presented information.
+The GIS data might be challenge. However, we are not using GIS to explore the data. In our workflow, GIS works as a preliminary data visualizer and to transform the data into a format that we can upload into D3. For example, some of our data is available in a file type called shape file. In other for us to use this data, we have to open in GIS (e.g. ArcGIS). In addition, GIS help us to isolate a specific layer of the data desired, and to export the data as csv. Another way, is to use an online tool to convert the shape files into geoJson. However, the online method does not allow us to isolate the desirable data.
+
+
+
+
+
+
+
+
+
+
+
+
+Critique Group 2
+I am here on behalf of Critique Group 2 to give some feedback to your group. As it seems you didn't share your presentation, I can only give some general advice based on my memory.
+ 
+Your presentation is really cool and your energetic speech also leaves a deep impression. As per my memory, you made a map to visualize your data, which is very good. But I didn't remember the interactive part in your visualization. And also adding more more aspects of data may broaden / deepen viewers' understanding of your topic. And I think if you can take those into consideration, your project will be really interesting.
+ 
+Response to Critique Group 2: As for now, we do not have a code with the interactions. Our main visualization is an interactive map, that will show available transportation methods in LA county (e.g. bike lanes, metro stops, bus stops, and free/highways). At the same time, we will score the neighborhoods based on the available transportation system to determine if the area is more sustainable or not. For this visualization, we will have mouse over effects to show the scores and we will add selection of a certain neighborhood. We would like to add more interactions to our visualization, for example zooming in, however we have to prioritize the ones that would allow us to achieve our project goals. As for our second visualization, which is a chord diagram, we will have a mouse over interaction to isolate the area. The chord diagram will mainly show which areas are more accessible than others.
+Another point to consider is the amount of data available by the LA city and the LA county. We believe this might be a drawback to our visualization, due to that we will prioritize elements of our project to make sure that the project is feasible and executed in the available time.
+ 
+Critique Group 3:
+
+
+Feedback not provided.
+
+
+Response to Critique Group 3:
+N/A
